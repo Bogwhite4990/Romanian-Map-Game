@@ -2,6 +2,9 @@
 
 This is a simple Python game called "Guess the County!" It uses the Turtle graphics library to display a map of Romania and allows you to guess the names of the counties. The objective is to guess all 41 counties correctly.
 
+![image](https://github.com/Bogwhite4990/Romanian-Map-Game/assets/103454208/84697819-ebe0-41ad-ae1a-8105891c75ea)
+
+
 ## Setup
 
 Before running the code, make sure you have the following dependencies installed:
